@@ -1,0 +1,9 @@
+Nembrini audio - NA_808
+Nembrini audio - NA_Analog_Rack_Chorus
+Nembrini audio - NA_Analog_Rack_Cleaner
+Nembrini audio - NA_Analog_Rack_Delay
+Nembrini audio - NA_Analog_Rack_Noise_Gate
+Nembrini audio - NA_Big_Stuff
+Nembrini audio - NA_Tuner
+Nembrini audio - NA_Wah
+ValhallaDSP - Supermassive
