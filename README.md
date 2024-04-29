@@ -3,6 +3,10 @@
 Part of the **_BCHJam_** project.  
 **_BCHJam_** that won the 1st place in the 2024 [br41n.io](https://www.br41n.io/) for the category BCI Programming & Arts.
 
+<img src="https://github.com/BRomans/BCHReaperOSC/assets/23708296/db012531-cb59-403c-8a80-fb466fea2fea" width="40%">
+
+
+
 This repository contains the audio effects part of the project.
 
 The list of audio effects used (all gratis) are in `pluginlist.txt`.  
